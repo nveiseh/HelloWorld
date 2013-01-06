@@ -1,5 +1,7 @@
 #HellowWorld.py
 #
 
-print("Hello world.")
+name = "NIMA"
+print("Hello world," + name)
+
 
